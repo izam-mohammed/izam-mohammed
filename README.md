@@ -1,4 +1,4 @@
-### Hi  👋
+### Hi  👋,I'm Izam Mohammed
 
 - 👋 I'm @IzamMohammed
 - 🌱 I’m currently learning Data Science,Python, Machine Learning Algorithms, Data Visualization tools etc
