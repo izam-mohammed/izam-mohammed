@@ -1,6 +1,4 @@
-### [Connect with me 💬](https://linktr.ee/izam.mohammed) 
-
-## Hi  👋,I'm Izam Mohammed
+## [Connect with me 💬](https://linktr.ee/izam.mohammed)
 
 - 👋 I'm @IzamMohammed
 - 🌱 I’m currently learning Data Science,Python, Machine Learning Algorithms, Data Visualization tools etc
