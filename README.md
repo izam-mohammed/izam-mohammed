@@ -7,7 +7,7 @@
 103. 📫 How to reach me: [ Click Here ](https://izam-mohammed.github.io/)
 
 ```sql
-SELECT skills FROM Humens WHERE name = 'Izam Mohammed' AND skills IN relavent_skills ORDER BY interest;
+SELECT skills FROM Humans WHERE name = 'Izam Mohammed' AND skills IN relavent_skills ORDER BY interest;
 ```
 **Result**:
 
