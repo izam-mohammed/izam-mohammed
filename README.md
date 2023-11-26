@@ -1,10 +1,9 @@
 ## [Connect with me 💬](https://izam-mohammed.github.io/)
 
-95. 👋 I'm Izam Mohammed
-100. 🌱 I’m currently learning Data Science, Python, Machine Learning Algorithms, Data Visualization tools, etc
-101. 💡 Working as an intern at @brototype
-102. 👯 I’m looking to collaborate on Data science projects
-103. 📫 How to reach me: [ Click Here ](https://izam-mohammed.github.io/)
+96. 👋 I'm Izam Mohammed
+97. Fall in love with Deep Neural nets
+98. Substracting derivative of my errors in life with a small learning rate ...
+103. 📫 More about me: [ Click Here ](https://izam-mohammed.github.io/)
 
 ```sql
 SELECT skills FROM Humans WHERE name = 'Izam Mohammed' AND skills IN relavent_skills ORDER BY interest;
