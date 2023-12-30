@@ -2,4 +2,4 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=deep-diver&theme=react-dark&hide_border=true&area=true)
 
-![](https://github.com/izam-mohammed/izam-mohammed/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/izam-mohammed/izam-mohammed/blob/main/github-contribution-grid-snake.svg)
