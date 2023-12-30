@@ -325,7 +325,7 @@
   </g>
 
 
-  <!-- typing 5 -->
+   <!-- typing 5 -->
   <g transform="translate(10, 240)" class="typing-5">
   <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
   <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
@@ -345,7 +345,7 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="170" height="42.1302" rx="18.0355" class="bubble" />
+    <rect width="200" height="42.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">Curious Fellow</text>    
   </g>  
   
@@ -367,10 +367,9 @@
 
   </g>
 
-
-  <!-- Have a great... -->
-  <g transform="translate(10, 336)" class="msg-4">
+  <!-- Twitter -->
+  <g transform="translate(10, 192)" class="msg-4">
     <rect width="400" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27"> please reach out via <a xlink:href="linkedin ...">https://www.linkedin.com/in/izammohammed/</a> </text>
+    <text x="15" y="27">please reach out via <a xlink:href="https://www.linkedin.com/in/izammohammed/">Linkedin ...</a></text>
   </g>
 </svg>
