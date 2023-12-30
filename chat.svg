@@ -55,30 +55,13 @@
 
     .msg-5 {
       animation: wait 11.7s, msg-5 0.2s 11.7s;
-    }
-
-    .msg-6 {
-      animation: wait 14.2s, msg-6 0.2s 16.7s;
-    }    
+    }   
     
     .typing-5 {
       opacity: 0;
       animation: wait 10s, fade-in-out 1.5s 10s;
     }    
-    
-    .typing-6 {
-      opacity: 0;
-      animation: wait 12.5s, fade-in-out 1.5s 12.5s;
-    }
-
-    .typing-7 {
-      opacity: 0;
-      animation: wait 15s, fade-in-out 1.5s 15s;
-    }
-
-    .msg-7 {
-      animation: wait 16.7s, msg-6 0.2s 14.2s;
-    }    
+      
     
     @keyframes wait {
       0%,
@@ -151,29 +134,7 @@
         opacity: 1;
         transform: translate(10px, 240px);
       }
-    }
-
-    @keyframes msg-6 {
-      0% {
-        opacity: 0;
-        transform: translate(10px, 293px);
-      }
-      100% {
-        opacity: 1;
-        transform: translate(10px, 288px);
-      }
-    }
-
-    @keyframes msg-7 {
-      0% {
-        opacity: 0;
-        transform: translate(10px, 341px);
-      }
-      100% {
-        opacity: 1;
-        transform: translate(10px, 336px);
-      }
-    }    
+    } 
     
     @media (prefers-color-scheme: dark) {
       .bubble {
@@ -345,8 +306,8 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="200" height="42.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Curious Fellow</text>    
+    <rect width="400" height="42.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">please reach out via <a xlink:href="https://www.linkedin.com/in/izammohammed/">Linkedin ...</a></text>    
   </g>  
   
   <!-- typing 4 -->
@@ -369,7 +330,7 @@
 
   <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="400" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">please reach out via <a xlink:href="https://www.linkedin.com/in/izammohammed/">Linkedin ...</a></text>
+    <rect width="200" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Curious Fellow</text>
   </g>
 </svg>
