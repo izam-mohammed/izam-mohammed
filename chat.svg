@@ -256,8 +256,8 @@
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="350" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">A Self taught ML engineer ✨</text>
-    <text x="15" y="50">building Production-Ready ML apps</text>
+    <text x="15" y="27">A resilient ML engineer ✨</text>
+    <text x="15" y="50">Assembling Production-Ready ML apps</text>
   </g>
 
   <!-- typing 3 -->
@@ -281,8 +281,8 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="380" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Fall in love with neural Nets ❤️</text>    
-    <text x="15" y="50">writing blogs and meaningful projects</text>
+    <text x="15" y="27">Fall in love with RAG models ❤️</text>    
+    <text x="15" y="50">Building RAGrank and Auto Playground</text>
   </g>
 
   <!-- typing 4 -->
