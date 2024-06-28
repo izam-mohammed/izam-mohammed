@@ -281,8 +281,8 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="380" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Fall in love with RAG models ❤️</text>    
-    <text x="15" y="50">Building RAGrank and Auto Playground</text>
+    <text x="15" y="27">Fall in love with LLM models ❤️</text>    
+    <text x="15" y="50">Building something out of the box now</text>
   </g>
 
   <!-- typing 4 -->
