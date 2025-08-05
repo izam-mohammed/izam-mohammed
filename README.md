@@ -1,3 +1,3 @@
-I used to have a colorful "README", pretending that am somethin. Hmm, I am just a curious human on Earth! 🙂
+I used to have a colorful README.
 
-... love to explore, learn nd grow.
+... am just a curious human :)
