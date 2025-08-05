@@ -1,5 +1,5 @@
-[![](https://github.com/izam-mohammed/izam-mohammed/blob/feature/chat.svg)](https://www.linkedin.com/in/izammohammed/) 
+```
+I used to have a colorful "README", pretending that am somethin. Hmm, I am just a curious human on Earth! 🙂
 
-
-
-[![](https://github.com/izam-mohammed/izam-mohammed/blob/feature/github-contribution-grid-snake.svg)](https://www.linkedin.com/in/izammohammed/)
+... love to explore, learn nd grow.
+```
