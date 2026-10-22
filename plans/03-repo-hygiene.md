@@ -101,9 +101,9 @@ version.
 
 ### Phase 3: security policy
 
-- [ ] `SECURITY.md` has supported versions, the private vulnerability
+- [x] `SECURITY.md` has supported versions, the private vulnerability
   reporting link, what happens next and scope.
-- [ ] Check: `grep` finds no em dash and no email address in it.
+- [x] Check: `grep` finds no em dash and no email address in it.
 
 ### Phase 4: open the PR
 
