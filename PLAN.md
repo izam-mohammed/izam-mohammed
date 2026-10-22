@@ -2,4 +2,4 @@
 
 ### Phase 1: repository hygiene
 
-- [ ] `plans/03-repo-hygiene.md` - Dependabot and security policy.
+- [x] `plans/03-repo-hygiene.md` - Dependabot and security policy.
