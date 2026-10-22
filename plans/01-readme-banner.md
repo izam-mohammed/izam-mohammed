@@ -111,14 +111,14 @@ The two SVG paths are fixed because the skill names them.
 
 ### Phase 1: the rough cut (needs you: try it)
 
-- [ ] Three concepts for what this profile is about, none repeating the
+- [x] Three concepts for what this profile is about, none repeating the
   skill's `concepts-used.md`, and the strongest picked (or put to you).
-- [ ] The two banners land at `assets/banner-light.svg` and
+- [x] The two banners land at `assets/banner-light.svg` and
   `assets/banner-dark.svg`, built by the skill's `build.py` with no
   `ERROR` and every `WARN` read, and previewed with `preview.sh`.
-- [ ] `README.md` shows them through `<picture>` with alt text above the
+- [x] `README.md` shows them through `<picture>` with alt text above the
   existing two lines, unchanged.
-- [ ] The concept is appended to the skill's `concepts-used.md`.
+- [x] The concept is appended to the skill's `concepts-used.md`.
 - [ ] Check: `pre-commit run --all-files` passes (or `sh scripts/check.sh`
   if `plans/02-quality-gates.md` landed first), and the branch's README
   on GitHub shows the banner.

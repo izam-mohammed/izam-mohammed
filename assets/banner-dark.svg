@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-labelledby="t d">
+  <title id="t">izam-mohammed</title>
+  <desc id="d">An iceberg. The small tip above the water is labelled public, the bits that work. The huge mass below is labelled private repos, holding attempt-7-final, do-not-open and worked-once-on-tuesday.</desc>
+
+  <rect width="1200" height="400" rx="24" fill="#0d1117"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace">
+    <!-- the pitch -->
+    <text x="64" y="92" font-size="16" fill="#8b93a1">~ tryin' things, breakin' things</text>
+    <text x="62" y="164" font-size="60" font-weight="700" fill="#f5f5f4">izam-mohammed</text>
+    <text x="64" y="212" font-size="20" fill="#d1d5db">You're looking at the tip.</text>
+    <text x="64" y="244" font-size="20" fill="#9aa3b2">The rest is in private repos, where it belongs.</text>
+
+    <g font-size="15">
+      <rect x="64" y="290" width="140" height="34" rx="17" fill="#161b22" stroke="#3f4757"/>
+      <text x="134" y="312" text-anchor="middle" fill="#cbd5e1">tries things</text>
+      <rect x="216" y="290" width="150" height="34" rx="17" fill="#161b22" stroke="#3f4757"/>
+      <text x="291" y="312" text-anchor="middle" fill="#cbd5e1">breaks things</text>
+      <rect x="378" y="290" width="160" height="34" rx="17" fill="#161b22" stroke="#3f4757"/>
+      <text x="458" y="312" text-anchor="middle" fill="#cbd5e1">hides the rest</text>
+    </g>
+
+    <!-- the iceberg -->
+    <path d="M690 148 H1160 V350 Q1160 368 1142 368 H708 Q690 368 690 350 Z" fill="#38bdf8" fill-opacity="0.06"/>
+    <polygon points="760,148 1100,148 1124,214 1104,296 1036,360 836,364 742,314 716,226" fill="#1e4e6e"/>
+    <polygon points="852,148 878,104 900,116 930,64 962,122 980,110 1004,148" fill="#e0f2fe" stroke="#7dd3fc" stroke-width="2"/>
+    <path d="M690 148 H1160" stroke="#38bdf8" stroke-width="3"/>
+
+    <text x="1020" y="88" font-size="14" fill="#8b93a1">public:</text>
+    <text x="1020" y="108" font-size="14" fill="#8b93a1">the bits</text>
+    <text x="1020" y="128" font-size="14" fill="#8b93a1">that work</text>
+
+    <text x="920" y="196" font-size="17" font-weight="700" text-anchor="middle" fill="#f0f9ff">private repos</text>
+    <g font-size="14" text-anchor="middle" fill="#bae6fd">
+      <text x="920" y="236">attempt-7-final</text>
+      <text x="920" y="266">do-not-open</text>
+      <text x="920" y="296">worked-once-on-tuesday</text>
+      <text x="920" y="326">untitled-folder-2</text>
+    </g>
+  </g>
+</svg>
