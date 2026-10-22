@@ -88,16 +88,16 @@ version.
 
 ### Phase 1: topics
 
-- [ ] Repository topics kept (`awesome-readme`, `github`, `profile`,
+- [x] Repository topics kept (`awesome-readme`, `github`, `profile`,
   `profile-readme`, `readme`) and `github-profile` added with
   `gh repo edit`.
-- [ ] Check: `gh repo view --json repositoryTopics` lists them.
+- [x] Check: `gh repo view --json repositoryTopics` lists them.
 
 ### Phase 2: Dependabot
 
-- [ ] `.github/dependabot.yml` adds `pre-commit` at `/`, weekly, 7 day
+- [x] `.github/dependabot.yml` adds `pre-commit` at `/`, weekly, 7 day
   cooldown, grouped.
-- [ ] Check: the file parses with `python3 -c 'import yaml'`.
+- [x] Check: the file parses with `python3 -c 'import yaml'`.
 
 ### Phase 3: security policy
 
