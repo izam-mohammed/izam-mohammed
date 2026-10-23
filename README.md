@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-    <img src="assets/banner-light.svg" alt="An iceberg: the small public tip is the bits that work, the huge private part underneath is the rest." width="100%">
+    <img src="assets/banner-light.svg" alt="A workplace safety sign headed SAFETY THIRD: 0 days since izam-mohammed broke somethin'. Previous record: 2, the laptop was closed. Incident reports are filed in private repos." width="100%">
   </picture>
 </p>
 

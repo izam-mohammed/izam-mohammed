@@ -1,41 +1,51 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-labelledby="t d">
   <title id="t">izam-mohammed</title>
-  <desc id="d">An iceberg. The small tip above the water is labelled public, the bits that work. The huge mass below is labelled private repos, holding attempt-7-final, do-not-open and worked-once-on-tuesday.</desc>
+  <desc id="d">A workplace safety sign headed SAFETY THIRD. A hanging number card reads 0 days since izam-mohammed broke somethin'. Previous record: 2, the laptop was closed. A knocked-over traffic cone lies beside it. Footnote: incident reports are filed in private repos, for everyone's safety.</desc>
 
-  <rect width="1200" height="400" rx="24" fill="#0d1117"/>
+  <defs>
+    <clipPath id="plate"><rect x="40" y="24" width="1120" height="352" rx="16"/></clipPath>
+    <pattern id="hazard" width="44" height="44" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="22" height="44" fill="#d29922"/>
+      <rect x="22" width="22" height="44" fill="#0d1117"/>
+    </pattern>
+  </defs>
 
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace">
-    <!-- the pitch -->
-    <text x="64" y="92" font-size="16" fill="#8b93a1">~ tryin' things, breakin' things</text>
-    <text x="62" y="164" font-size="60" font-weight="700" fill="#f5f5f4">izam-mohammed</text>
-    <text x="64" y="212" font-size="20" fill="#d1d5db">You're looking at the tip.</text>
-    <text x="64" y="244" font-size="20" fill="#9aa3b2">The rest is in private repos, where it belongs.</text>
+  <!-- the sign itself -->
+  <rect x="40" y="24" width="1120" height="352" rx="16" fill="#161b22"/>
+  <g clip-path="url(#plate)">
+    <rect x="40" y="24" width="1120" height="28" fill="url(#hazard)"/>
+    <rect x="40" y="52" width="1120" height="66" fill="#238636"/>
+  </g>
+  <rect x="40" y="24" width="1120" height="352" rx="16" fill="none" stroke="#30363d" stroke-width="2"/>
+  <text x="600" y="98" text-anchor="middle" font-family="'Arial Black', 'Helvetica Neue', Arial, sans-serif" font-weight="900" font-size="36" letter-spacing="10" fill="#ffffff">SAFETY THIRD</text>
 
-    <g font-size="15">
-      <rect x="64" y="290" width="140" height="34" rx="17" fill="#161b22" stroke="#3f4757"/>
-      <text x="134" y="312" text-anchor="middle" fill="#cbd5e1">tries things</text>
-      <rect x="216" y="290" width="150" height="34" rx="17" fill="#161b22" stroke="#3f4757"/>
-      <text x="291" y="312" text-anchor="middle" fill="#cbd5e1">breaks things</text>
-      <rect x="378" y="290" width="160" height="34" rx="17" fill="#161b22" stroke="#3f4757"/>
-      <text x="458" y="312" text-anchor="middle" fill="#cbd5e1">hides the rest</text>
-    </g>
+  <g fill="#6e7681">
+    <circle cx="64" cy="140" r="6"/><circle cx="1136" cy="140" r="6"/>
+    <circle cx="64" cy="352" r="6"/><circle cx="1136" cy="352" r="6"/>
+  </g>
 
-    <!-- the iceberg -->
-    <path d="M690 148 H1160 V350 Q1160 368 1142 368 H708 Q690 368 690 350 Z" fill="#38bdf8" fill-opacity="0.06"/>
-    <polygon points="760,148 1100,148 1124,214 1104,296 1036,360 836,364 742,314 716,226" fill="#1e4e6e"/>
-    <polygon points="852,148 878,104 900,116 930,64 962,122 980,110 1004,148" fill="#e0f2fe" stroke="#7dd3fc" stroke-width="2"/>
-    <path d="M690 148 H1160" stroke="#38bdf8" stroke-width="3"/>
+  <!-- the number card, hung slightly crooked, as is tradition -->
+  <g transform="rotate(-3 200 250)">
+    <rect x="100" y="146" width="200" height="200" rx="12" fill="#0d1117" stroke="#3d444d" stroke-width="3"/>
+    <circle cx="136" cy="166" r="5" fill="#6e7681"/><circle cx="264" cy="166" r="5" fill="#6e7681"/>
+    <text x="200" y="316" text-anchor="middle" font-family="'Helvetica Neue', Arial, sans-serif" font-weight="800" font-size="190" fill="#ff7b72">0</text>
+  </g>
 
-    <text x="1020" y="88" font-size="14" fill="#8b93a1">public:</text>
-    <text x="1020" y="108" font-size="14" fill="#8b93a1">the bits</text>
-    <text x="1020" y="128" font-size="14" fill="#8b93a1">that work</text>
+  <g font-family="'Helvetica Neue', Arial, sans-serif" fill="#e6edf3">
+    <text x="340" y="196" font-size="44" font-weight="800">days since izam-mohammed</text>
+    <text x="340" y="250" font-size="44" font-weight="800">broke somethin'</text>
+    <text x="340" y="296" font-size="23" fill="#9da7b3">previous record: 2 (laptop was closed)</text>
+  </g>
 
-    <text x="920" y="196" font-size="17" font-weight="700" text-anchor="middle" fill="#f0f9ff">private repos</text>
-    <g font-size="14" text-anchor="middle" fill="#bae6fd">
-      <text x="920" y="236">attempt-7-final</text>
-      <text x="920" y="266">do-not-open</text>
-      <text x="920" y="296">worked-once-on-tuesday</text>
-      <text x="920" y="326">untitled-folder-2</text>
-    </g>
+  <line x1="340" y1="320" x2="950" y2="320" stroke="#30363d" stroke-width="2" stroke-dasharray="6 6"/>
+  <text x="340" y="352" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="17" fill="#9da7b3">incident reports are filed in private repos. for everyone's safety.</text>
+
+  <!-- pictogram: one traffic cone, already knocked over -->
+  <g transform="translate(22 -14) rotate(-74 1060 299)">
+    <rect x="1000" y="292" width="120" height="14" rx="4" fill="#f0883e"/>
+    <polygon points="1022,292 1098,292 1066,160 1054,160" fill="#f0883e"/>
+    <polygon points="1032.4,250 1087.6,250 1092.6,270 1027.4,270" fill="#e6edf3"/>
+    <polygon points="1042.1,210 1077.9,210 1082.8,230 1037.2,230" fill="#e6edf3"/>
+    <rect x="1052" y="154" width="16" height="10" rx="4" fill="#f0883e"/>
   </g>
 </svg>
